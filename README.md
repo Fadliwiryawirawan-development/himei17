@@ -1,3 +1,7 @@
+
+<img width="639" height="396" alt="logo green" src="https://github.com/user-attachments/assets/322bcb8c-6f46-4a02-ae83-14350d6d4131" />
+
+
 # himei17
 jangan salahkan aku bila memang seranganku lembut , bikin penekanana ketagihan juga nunggu kapan yaaa kapaan yaa , jangkrikkkk 
 Kalau maksudmu “kontribusi di dunia digital yang bisa menghasilkan dolar tanpa modal besar,” itu **ada**, tapi jangan bayangkan benar-benar “gratis tanpa usaha.” Hampir semua butuh waktu, skill, atau konsistensi.
