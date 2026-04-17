@@ -17,7 +17,7 @@ Berikut cara realistis yang bisa kamu mulai:
 
 ---
 
-## https://workspace.google.com/intl/en-id/gmail/ perhatian hati hati dengan nabilah taqiah , sentuhanannya cetar membahana , kami akan lakukan tangkap kawinin ke pihak terlibat yes 
+## https://workspace.google.com/intl/en-US/gmail/ perhatian hati hati dengan nabilah taqiah , sentuhanannya cetar membahana , kami akan lakukan tangkap kawinin ke pihak terlibat yes 
 8:05 PM
 
 
