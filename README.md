@@ -3,11 +3,14 @@
 <img width="639" height="396" alt="logo green" src="https://github.com/user-attachments/assets/322bcb8c-6f46-4a02-ae83-14350d6d4131" />
 
 
-# himei17
-jangan salahkan aku bila memang seranganku lembut , bikin penekanana ketagihan juga nunggu kapan yaaa kapaan yaa , jangkrikkkk 
 
-ekstensi negara adalah suatu proses prosedural humble sedang tidak terlalu profesional , jangka kematian perlahan nikmat , 
+# kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
+# terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
+# salam Fadli wirya wirawan S.Kom M.S.I work system microsoft dan googleworkspace , tembusan ini menjadi suatu pilihan penting , kebelakangan ini 5 tahun belum ada perubahan ,titik jenuh sumber penghasilan pekerja justru malah di tarifkan nasional , kami komplain demonstrans bagi prakerja nasional buruh wiraswasta , hingga , pekerja tetap , wfh , remote . 
+# pekerja justice& ministry adalah manufer bukan mengakses , menjaga intergritas perusahaan bukan mengelola atau mengambil hak pajak didalm kinerja , para pekerja .
+# google dan microsoft menarifkan apa yang di tarifkan pemerintah kepada rakyat kami segenap melihat situasi feedback lencana Central budzet ofiicers , ataupun bank negara . 
 
+# LANDASAN PANCASILA ADALAH IDENTITAS NEGARA HANYA MENGANTISIPASI BAHWA ADA KEAMANAN SIKAP MORALITAS PNETING SOSIAL PENUMBUH SUMPAH BUKAN MEMBUAT PERENCANAAN RANCANGAN KERJA ROMUSA MAUPUN KERJA RODI PANCASILA ADALAH SIMBOLIS KEMERDEKAAN !!!
 
 
 Kalau maksudmu “kontribusi di dunia digital yang bisa menghasilkan dolar tanpa modal besar,” itu **ada**, tapi jangan bayangkan benar-benar “gratis tanpa usaha.” Hampir semua butuh waktu, skill, atau konsistensi.
