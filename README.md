@@ -1,3 +1,4 @@
+<img width="670" height="670" alt="avatar-2" src="https://github.com/user-attachments/assets/1fb4c3ae-48fd-4d18-8803-fd272b005d20" />
 
 # TRUMP LOOKING HERE , CLOsing diplomate to israel , but , next stronger connected hub , diplomate cyprus a country .cyprus accomodate a county minorities religous various . 
 
