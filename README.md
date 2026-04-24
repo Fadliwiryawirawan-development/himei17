@@ -1,30 +1,11 @@
-<img width="827" height="542" alt="logo-chrome" src="https://github.com/user-attachments/assets/587e5f50-426a-4d23-80a8-691e75cedf16" />
 
-<img width="720" height="720" alt="WhatsApp Image 2026-04-14 at 21 28 53" src="https://github.com/user-attachments/assets/78ef2b72-5462-4a7b-957f-478dd88b472c" />
-
-<img width="639" height="396" alt="logo green" src="https://github.com/user-attachments/assets/322bcb8c-6f46-4a02-ae83-14350d6d4131" />
-
-
-
-# kami meminta putus hubungan kinerja kebijakan dengan kepemerintahan , mereka hanya mengolok dan merencanakan tanpa sumber dimana pekerja karyawan dibatasi , undang undang bukan lagi patokan justru menyusahkan , jika hukum online benar ikut serta dalam kepemerintahan justru kenapa pertanyaan ini seolah negri negara tidak mengetahuinya , tidak ada hukum menyetir dalam perusahaan , intergritas perusahaan memiliki kebijakan sendiri dan menegelola kepentingan membuka SDM dalam kepentingan Umum , 
-# terlalu bodoh dalam menciptakan RUU tata kelola usaha tetapi mentarifan nasional tidak diketahui internasional , justru negara luar lebih memilih gratis dan membangun negaranya tanpa basabasi , terimakasih saya ajukan saya tanda tangan semua negara berhak memiliki hak bebas dalam bekerja , peraturan sudah memihak kepada perusahaan terkait CO owner , leader , pemilik saham , pemilik perusahaan , relasi pekerja , dll. 
-# salam Fadli wirya wirawan S.Kom M.S.I work system microsoft dan googleworkspace , tembusan ini menjadi suatu pilihan penting , kebelakangan ini 5 tahun belum ada perubahan ,titik jenuh sumber penghasilan pekerja justru malah di tarifkan nasional , kami komplain demonstrans bagi prakerja nasional buruh wiraswasta , hingga , pekerja tetap , wfh , remote . 
-# pekerja justice& ministry adalah manufer bukan mengakses , menjaga intergritas perusahaan bukan mengelola atau mengambil hak pajak didalm kinerja , para pekerja .
-# google dan microsoft menarifkan apa yang di tarifkan pemerintah kepada rakyat kami segenap melihat situasi feedback lencana Central budzet ofiicers , ataupun bank negara . 
-
-# LANDASAN PANCASILA ADALAH IDENTITAS NEGARA HANYA MENGANTISIPASI BAHWA ADA KEAMANAN SIKAP MORALITAS PNETING SOSIAL PENUMBUH SUMPAH BUKAN MEMBUAT PERENCANAAN RANCANGAN KERJA ROMUSA MAUPUN KERJA RODI PANCASILA ADALAH SIMBOLIS KEMERDEKAAN !!!
-
-
-Kalau maksudmu “kontribusi di dunia digital yang bisa menghasilkan dolar tanpa modal besar,” itu **ada**, tapi jangan bayangkan benar-benar “gratis tanpa usaha.” Hampir semua butuh waktu, skill, atau konsistensi.
-
+# TRUMP LOOKING HERE , CLOsing diplomate to israel , but , next stronger connected hub , diplomate cyprus a country .cyprus accomodate a county minorities religous various . 
 
 Berikut cara realistis yang bisa kamu mulai:
 
 ---
 
-## https://workspace.google.com/intl/en-US/gmail/ perhatian hati hati dengan nabilah taqiah , sentuhanannya cetar membahana , kami akan lakukan tangkap kawinin ke pihak terlibat yes 
-8:05 PM moralitas kebijakan , freedream mr.cyberw1ry4 initial 
-
+## https://workspace.google.com/intl/en-US/gmail/
 
 Saya tidak bisa bantu membuat atau mendukung ancaman, intimidasi, atau kekerasan terhadap siapa pun.
 
